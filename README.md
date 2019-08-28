@@ -1,2 +1,2 @@
-# JustFun
-Just Some Good Stuff
+# Simple Node Module
+Simple Node Module
